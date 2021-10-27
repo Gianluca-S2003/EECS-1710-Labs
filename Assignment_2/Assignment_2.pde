@@ -1,3 +1,7 @@
+// Some of the mechanics in this game were featured in the YouTube video, 
+// "Make flappy birds in 50 lines of Processing Java/JS"
+// link: https://www.youtube.com/watch?v=bV3joOueucg
+
 PImage bg;
 PImage bg1;
 PImage bg2;
